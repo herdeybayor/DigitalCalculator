@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+#showTime {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    border: solid 1px white;
+    padding: 0px 5px;
+}
